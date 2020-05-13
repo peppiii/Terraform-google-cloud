@@ -54,6 +54,4 @@ $ terraform apply
 ```
 
 ## Noted
-```bash
 the result of terraform I save in the cloud, why? because all infra or Devops teams will be able to control the infrastructure
-```
